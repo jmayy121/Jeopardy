@@ -1,2 +1,2 @@
 # Jeopardy
-Simple Jeopardy Game
+Simple jeopardy game that includes three catagories with values from 100 to 300 in increments of 100. Each question clears the command window to reduce the clutter. After every question is answered, the value for that question will dissappear to prevent confusion on what questions have already been answered. After all the questions have been answered, the program will output "Game Over" and terminate. NOTE: catagory selections and question answers are not case sensitive.
